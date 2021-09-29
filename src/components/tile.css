@@ -1,0 +1,8 @@
+.tile {
+    padding: 4em;
+    border: 1px solid black;
+}
+
+.tile-won {
+    background: greenyellow;
+}
